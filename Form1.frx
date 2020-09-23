@@ -1,0 +1,21 @@
+ÿHere is a stylesheet to make your site look and feal like a help file.
+=======================================
+=======================================
+a:link { color:green; text-decoration:none; }
+a:hover { color:green; text-decoration:underline; }
+a:active { color:green; text-decoration:none; font-weight:bold; }
+a:visited { color:green; text-decoration:none; }
+{ background:#FFFFCC }
+=======================================
+Paste this and save the file as "help.css" and place it on your server.
+Link to it in your pages like this:
+=======================================
+<html>
+<head>
+<link rel="text/stylesheet" href="http://yourdomain/help.css">
+</head>
+<body>
+</body>
+</html>
+==========================
+Choose On-Line Help from the Help menu to see it in action.
